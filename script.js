@@ -66,4 +66,3 @@ incrementEl.addEventListener("click", ()=> {
 decrementEl.addEventListener("click", ()=> {
     store.dispatch(decrement(2))
 })
-
